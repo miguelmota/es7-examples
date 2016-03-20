@@ -1,6 +1,7 @@
 # ES2016/ES7 Examples
 
-- Decorators
+- [Decorators](decorators/)
+- [Async/Await](async-await/)
 
 # License
 
